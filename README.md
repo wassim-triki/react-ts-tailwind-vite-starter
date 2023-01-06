@@ -24,25 +24,25 @@ git clone https://github.com/user/react-starter.git
 npm install
 ```
 3. Start the development server:
-
+```
 npm run dev
-
+```
 The development server will start up and the app will be available at http://localhost:5173.
 
 ## Building for Production
 
 To build the app for production, run the following command:
-
+```
 npm run build
-
+```
 This will create a production-ready build of the app in the `build` directory.
 
 ## Testing
 
 To run the test suite, use the following command:
-
+```
 npm run test
-
+```
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
