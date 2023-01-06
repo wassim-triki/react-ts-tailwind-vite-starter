@@ -20,14 +20,14 @@ To get started with this project, follow these steps:
 git clone https://github.com/user/react-starter.git
 
 2. Install the dependencies:
-
+```
 npm install
-
+```
 3. Start the development server:
 
 npm run dev
 
-The development server will start up and the app will be available at http://localhost:3000.
+The development server will start up and the app will be available at http://localhost:5173.
 
 ## Building for Production
 
